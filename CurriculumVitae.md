@@ -8,4 +8,4 @@ Dermatology AI and Statistics
 none yet :)
 
 # Presentations
-![EADO Congress, Paris, France 6,2024](A-345.pdf)
+[EADO Congress, Paris, France 6,2024](A-345.pdf)
