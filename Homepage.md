@@ -9,7 +9,8 @@
 ## Non-Academics
 
 ### Here are some cool pages to visit
-[about me](https://www.google.com/search?q=frank+drugge)
+[about me](https://www.google.com/search?q=frank+drugge) 
+[triple point](https://instagram.com/triplepoint.band)
 [my schedule](https://students.ucsd.edu/academics/enroll/index.html)  
 
 ## Contact Info
