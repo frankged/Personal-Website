@@ -1,10 +1,17 @@
-# Welcome to Frank's Website
-
-## [Curriculum Vitae](Academic_CV.pdf)
+# Welcome to Frank's Website Homepage
 
 
-## Here are some cool pages to visit
+## Academics
+
+### [Curriculum Vitae](Academic_CV.pdf)
+
+
+## Non-Academics
+
+### Here are some cool pages to visit
 [about me](https://www.google.com/search?q=frank+drugge)
 [my schedule](https://students.ucsd.edu/academics/enroll/index.html)  
-Contact me: <fdrugge@ucsd.edu>  
+
+## Contact Info
+Gmail: <frank.drugge@gmail.com>  
 
