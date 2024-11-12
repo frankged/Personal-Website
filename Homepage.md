@@ -5,6 +5,8 @@
 
 ### [Curriculum Vitae](Academic_CV.pdf)
 
+### [School Projects](School_Projects.md)
+
 
 ## Non-Academics
 
